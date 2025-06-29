@@ -26,5 +26,5 @@ Foi abordado como tema central do podcast a **utilização das Inteligências Ar
 
 ---
 
-*“Faça AI: um podcast criado com inteligência para facilitar a sua vida comum com tecnologia extraordinária.”*
+*“Faça AI: por que fazer o que se pode delegar?.”*
 
